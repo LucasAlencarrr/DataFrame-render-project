@@ -1,0 +1,16 @@
+/* Estilo personalizado para o cabeçalho da tabela */
+th {
+    color: #000000; /* Preto para o texto */
+    background-color: #493acd9d; /* Azul escuro para o fundo */
+    font-weight: bold; /* Negrito */
+}
+
+/* Estilo adicional para bordas e centralização da tabela */
+.table {
+    border: 1px solid #ddd;
+}
+
+.table th, .table td {
+    text-align: center;
+    padding: 10px;
+}
