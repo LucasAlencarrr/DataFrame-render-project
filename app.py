@@ -9,7 +9,7 @@ def tabela(nome):
     dataframes = {
         'clientes': pd.DataFrame({
             'Nome': ['Ana', 'Bruno', 'Carlos', 'Daniela'],
-            'Idade': [23, 35, 29, 42],
+            'Idade': [23, 32, 29, 42],
             'Cidade': ['São Paulo', 'Rio de Janeiro', 'Curitiba', 'Salvador']
         }),
         'produtos': pd.DataFrame({
